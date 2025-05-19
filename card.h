@@ -1,7 +1,3 @@
-/*                           *\  
-    DO NOT MODIFY THIS FILE
-\*                           */
-
 #include <iostream>
 #include <string>
 
