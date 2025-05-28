@@ -32,7 +32,6 @@ class Deck {
         void order();
         int search(const Card&) const;
         void print(ostream&) const;
-
 };
 
 ostream& operator<<(ostream&, const Deck&);
