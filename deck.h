@@ -14,7 +14,7 @@ const int MAX_CARDS = 52;
 class Deck {
     private:
         vector<Card> cards;
-        bool comesBefore(const Card&, const Card&);
+        bool comesBefore(const Card&, const Card&) const;
         
 
     public:
